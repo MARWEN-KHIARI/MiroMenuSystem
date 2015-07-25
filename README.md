@@ -24,8 +24,6 @@ Variables:
 [Parent] - current parent of transform (Double click for select)
 [Childs] - all childs of current transform (Double click for select)
 
-Email me if you have a questions or suggestions: maroien88@gmail.com
-
 
 
 
@@ -53,5 +51,5 @@ always ceil AnumberLong
 
 Website: <a href='http://touch3dstudio.com' target="_blank">touch3dstudio.com</a><br>
 Developer: <a href='https://www.facebook.com/marwen.khiari1' target="_blank">Marwen Khiari</a><br>
-
+Email me if you have a questions or suggestions: contact@touch3dstudio.com
 
