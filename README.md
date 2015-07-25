@@ -1,4 +1,4 @@
-# Plugin-Unity-3d-2012 MiroMenuSystem v1.0
+# Plugin-Unity-2012 MiroMenuSystem v1.0
 Scripting/Tools - GUI
 
 
